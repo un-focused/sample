@@ -5,5 +5,7 @@ DEF
 Yudhvir Raj
 Yudhvir Raj
 FGH
+
+Tina Bazhenova
 # To run this project on your machine
 Git clone the url
